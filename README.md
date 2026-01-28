@@ -23,7 +23,7 @@ Encontraras los siguientes archivos:
  - [game_code_1.py](game_code_1.py): version base del juego implementado en el video
  - [game_code_2.py](game_code_2.py): segunda version del juego, agregando movimiento vertical a las tuberias
  - [imgs](imgs): carpeta con todas las imagenes y sprites necesarias para correr el juego
- - (Animaciones)[Animaciones]: carpeta con las animaciones usadas en este video (usando Manim)
+ - [Animaciones](Animaciones): carpeta con las animaciones usadas en este video (usando Manim)
 
 ## Instalación
 Descarga o clona este proyecto:
